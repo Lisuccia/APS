@@ -14,15 +14,35 @@
         <children xmi:type="notation:BasicDecorationNode" xmi:id="_DbGgxNBiEeyF7O2b0U8wPg" type="Stereotype"/>
         <children xmi:type="notation:BasicDecorationNode" xmi:id="_DbGgxdBiEeyF7O2b0U8wPg" type="Name"/>
         <children xmi:type="notation:BasicDecorationNode" xmi:id="_DbGgxtBiEeyF7O2b0U8wPg" type="Parent"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_DbGgwdBiEeyF7O2b0U8wPg" x="29172" y="1584"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_DbGgwdBiEeyF7O2b0U8wPg" x="22572" y="1584"/>
+      </children>
+      <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_9rmx4NBiEeyF7O2b0U8wPg" element="_9rmK0NBiEeyF7O2b0U8wPg" fontName="Segoe UI" fontHeight="8" fillColor="15912618" transparency="0" lineColor="15912618" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_9rnY8NBiEeyF7O2b0U8wPg" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_9rnY8dBiEeyF7O2b0U8wPg" width="1455" height="2381"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_9rnY8tBiEeyF7O2b0U8wPg" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_9rnY89BiEeyF7O2b0U8wPg" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_9rnY9NBiEeyF7O2b0U8wPg" type="Parent"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9rmx4dBiEeyF7O2b0U8wPg" x="17424" y="1848"/>
       </children>
       <element xsi:nil="true"/>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_AefwQNBjEeyF7O2b0U8wPg" element="_AeeiINBjEeyF7O2b0U8wPg" source="_9rmx4NBiEeyF7O2b0U8wPg" target="_DbGgwNBiEeyF7O2b0U8wPg" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_AegXUNBjEeyF7O2b0U8wPg" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_AegXUtBjEeyF7O2b0U8wPg" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_AegXU9BjEeyF7O2b0U8wPg" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_AegXUdBjEeyF7O2b0U8wPg" y="-186"/>
+        </children>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_AefwQdBjEeyF7O2b0U8wPg" points="[51, -10, -141, 55]$[207, -58, 15, 7]"/>
+      </edges>
     </contents>
   </eAnnotations>
   <packageImport xmi:id="_ODXARNBfEeyF7O2b0U8wPg">
     <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
   </packageImport>
   <packagedElement xmi:type="uml:Actor" xmi:id="_DbFSoNBiEeyF7O2b0U8wPg" name="Utente generico"/>
+  <packagedElement xmi:type="uml:Actor" xmi:id="_9rmK0NBiEeyF7O2b0U8wPg" name="UtenteRegistrato">
+    <generalization xmi:id="_AeeiINBjEeyF7O2b0U8wPg" general="_DbFSoNBiEeyF7O2b0U8wPg"/>
+  </packagedElement>
   <profileApplication xmi:id="_ODXARdBfEeyF7O2b0U8wPg">
     <eAnnotations xmi:id="_ODXARtBfEeyF7O2b0U8wPg" source="http://www.eclipse.org/uml2/2.0.0/UML">
       <references xmi:type="ecore:EPackage" href="pathmap://UML_PROFILES/Standard.profile.uml#_yzU58YinEdqtvbnfB2L_5w"/>
