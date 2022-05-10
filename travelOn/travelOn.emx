@@ -4,8 +4,7 @@
 <?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.mmi.ui.signatures.diagram" version="7.0.0"><feature description="" name="Rational Modeling Platform (com.ibm.xtools.rmp)" url="" version="7.0.0"/></signature>?>
 <?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.uml.msl.model" version="7.0.0"><feature description="" name="com.ibm.xtools.ruml.feature" url="" version="7.0.0"/></signature>?>
 <uml:Package xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmlns:umlnotation="http://www.ibm.com/xtools/1.5.3/Umlnotation" xmi:id="_ODXAQdBfEeyF7O2b0U8wPg" name="travelOn">
-  <eAnnotations xmi:id="_ODXAQtBfEeyF7O2b0U8wPg" source="uml2.diagrams" references="_ODXAQ9BfEeyF7O2b0U8wPg">
-    <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_ODXAQ9BfEeyF7O2b0U8wPg" type="Freeform" name="Main"/>
+  <eAnnotations xmi:id="_ODXAQtBfEeyF7O2b0U8wPg" source="uml2.diagrams">
     <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_8g6V0NBhEeyF7O2b0U8wPg" type="Usecase" name="travelOn">
       <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_DbGgwNBiEeyF7O2b0U8wPg" element="_DbFSoNBiEeyF7O2b0U8wPg" fontName="Segoe UI" fontHeight="8" fillColor="15912618" transparency="0" lineColor="15912618" lineWidth="1" showStereotype="Label">
         <children xmi:type="notation:DecorationNode" xmi:id="_DbGgwtBiEeyF7O2b0U8wPg" type="ImageCompartment">
@@ -14,7 +13,7 @@
         <children xmi:type="notation:BasicDecorationNode" xmi:id="_DbGgxNBiEeyF7O2b0U8wPg" type="Stereotype"/>
         <children xmi:type="notation:BasicDecorationNode" xmi:id="_DbGgxdBiEeyF7O2b0U8wPg" type="Name"/>
         <children xmi:type="notation:BasicDecorationNode" xmi:id="_DbGgxtBiEeyF7O2b0U8wPg" type="Parent"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_DbGgwdBiEeyF7O2b0U8wPg" x="22572" y="1584"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_DbGgwdBiEeyF7O2b0U8wPg" x="28776" y="1848"/>
       </children>
       <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_9rmx4NBiEeyF7O2b0U8wPg" element="_9rmK0NBiEeyF7O2b0U8wPg" fontName="Segoe UI" fontHeight="8" fillColor="15912618" transparency="0" lineColor="15912618" lineWidth="1" showStereotype="Label">
         <children xmi:type="notation:DecorationNode" xmi:id="_9rnY8NBiEeyF7O2b0U8wPg" type="ImageCompartment">
@@ -23,7 +22,7 @@
         <children xmi:type="notation:BasicDecorationNode" xmi:id="_9rnY8tBiEeyF7O2b0U8wPg" type="Stereotype"/>
         <children xmi:type="notation:BasicDecorationNode" xmi:id="_9rnY89BiEeyF7O2b0U8wPg" type="Name"/>
         <children xmi:type="notation:BasicDecorationNode" xmi:id="_9rnY9NBiEeyF7O2b0U8wPg" type="Parent"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9rmx4dBiEeyF7O2b0U8wPg" x="17424" y="1848"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9rmx4dBiEeyF7O2b0U8wPg" x="23232" y="1716"/>
       </children>
       <element xsi:nil="true"/>
       <edges xmi:type="umlnotation:UMLConnector" xmi:id="_AefwQNBjEeyF7O2b0U8wPg" element="_AeeiINBjEeyF7O2b0U8wPg" source="_9rmx4NBiEeyF7O2b0U8wPg" target="_DbGgwNBiEeyF7O2b0U8wPg" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
