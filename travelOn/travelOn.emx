@@ -2076,7 +2076,7 @@
     <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_lZkxMdUfEeywOOiamcJcoQ" name="ReceiveOperationEvent2" operation="_jL4xoNUfEeywOOiamcJcoQ"/>
     <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_BSR9cdUgEeywOOiamcJcoQ" name="SendOperationEvent3" operation="_BSR9cNUgEeywOOiamcJcoQ"/>
     <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_BSSkgNUgEeywOOiamcJcoQ" name="ReceiveOperationEvent3" operation="_BSR9cNUgEeywOOiamcJcoQ"/>
-    <packagedElement xmi:type="uml:Collaboration" xmi:id="_sJaA8Na5EeyF3OYozAzneQ" name="RichiestaAnnullamentoPrenotazioneCollaboration">
+    <packagedElement xmi:type="uml:Collaboration" xmi:id="_sJaA8Na5EeyF3OYozAzneQ" name="RichiestaPrenotazioneCollaboration">
       <ownedBehavior xmi:type="uml:Interaction" xmi:id="_sJv_MNa5EeyF3OYozAzneQ" name="Interaction1">
         <eAnnotations xmi:id="_sKpXENa5EeyF3OYozAzneQ" source="uml2.diagrams">
           <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_sKpXEda5EeyF3OYozAzneQ" type="Sequence" element="_sJv_MNa5EeyF3OYozAzneQ" name="DiagrammaSequenzaPrenotazioneCliente" measurementUnit="Himetric">
@@ -2243,8 +2243,8 @@
         <message xmi:id="_z_nn4ta8EeyF3OYozAzneQ" name="RichiestaInserimentoPrenotazione" messageSort="reply" receiveEvent="_z_oO8Na8EeyF3OYozAzneQ" sendEvent="_z_nn4da8EeyF3OYozAzneQ" connector="_QW-7gNa8EeyF3OYozAzneQ"/>
         <message xmi:id="_jX-qwNa9EeyF3OYozAzneQ" name="Paga Caparra" receiveEvent="_jX_R0Na9EeyF3OYozAzneQ" sendEvent="_jX-qwda9EeyF3OYozAzneQ" connector="_QW-7gNa8EeyF3OYozAzneQ"/>
         <message xmi:id="_jX_44Na9EeyF3OYozAzneQ" name="Paga Caparra" messageSort="reply" receiveEvent="_jX_44da9EeyF3OYozAzneQ" sendEvent="_jX_R0ta9EeyF3OYozAzneQ" connector="_QW-7gNa8EeyF3OYozAzneQ"/>
-        <message xmi:id="_Lb-SsNa_EeyF3OYozAzneQ" name="Invia richiesta annullamento prenotazione" receiveEvent="_Lb-5wda_EeyF3OYozAzneQ" sendEvent="_Lb-5wNa_EeyF3OYozAzneQ" connector="_Lb_g0ta_EeyF3OYozAzneQ"/>
-        <message xmi:id="_Lb_g0Na_EeyF3OYozAzneQ" name="Invia richiesta annullamento prenotazione" messageSort="reply" receiveEvent="_Lb_g0da_EeyF3OYozAzneQ" sendEvent="_Lb-5w9a_EeyF3OYozAzneQ" connector="_Lb_g0ta_EeyF3OYozAzneQ"/>
+        <message xmi:id="_Lb-SsNa_EeyF3OYozAzneQ" name="Invia richiesta prenotazione" receiveEvent="_Lb-5wda_EeyF3OYozAzneQ" sendEvent="_Lb-5wNa_EeyF3OYozAzneQ" connector="_Lb_g0ta_EeyF3OYozAzneQ"/>
+        <message xmi:id="_Lb_g0Na_EeyF3OYozAzneQ" name="Invia richiesta prenotazione" messageSort="reply" receiveEvent="_Lb_g0da_EeyF3OYozAzneQ" sendEvent="_Lb-5w9a_EeyF3OYozAzneQ" connector="_Lb_g0ta_EeyF3OYozAzneQ"/>
       </ownedBehavior>
       <ownedAttribute xmi:id="_3xdpMNa5EeyF3OYozAzneQ" name="utenteRegistrato" type="_9rmK0NBiEeyF7O2b0U8wPg"/>
       <ownedAttribute xmi:id="_5Q2YUNa5EeyF3OYozAzneQ" name="system" type="_Fx2r0NLKEey1H5A3ecLYSQ"/>
