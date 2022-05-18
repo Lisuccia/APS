@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--xtools2_universal_type_manager-->
 <!--Rational Software Architect Designer 9.6-->
-<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.mmi.ui.signatures.diagram" version="7.0.0"><feature description="" name="Piattaforma Rational Modeling (com.ibm.xtools.rmp)" url="" version="7.0.0"/></signature>?>
+<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.mmi.ui.signatures.diagram" version="7.0.0"><feature description="" name="Rational Modeling Platform (com.ibm.xtools.rmp)" url="" version="7.0.0"/></signature>?>
 <?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.uml.msl.model" version="7.0.0"><feature description="" name="com.ibm.xtools.ruml.feature" url="" version="7.0.0"/></signature>?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:Standard="http://www.eclipse.org/uml2/schemas/Standard/1" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmlns:umlnotation="http://www.ibm.com/xtools/1.5.3/Umlnotation" xsi:schemaLocation="http://www.eclipse.org/uml2/schemas/Standard/1 pathmap://UML_PROFILES/Standard.profile.uml#_yzU58YinEdqtvbnfB2L_5w">
   <uml:Package xmi:id="_ODXAQdBfEeyF7O2b0U8wPg" name="travelOn">
@@ -1936,7 +1936,7 @@
                   <layoutConstraint xmi:type="notation:Bounds" xmi:id="_lG2CcdUfEeywOOiamcJcoQ" x="-1" y="1453" height="1825"/>
                 </children>
                 <children xmi:type="umlnotation:UMLShape" xmi:id="_p_RlUNaxEeycwNxP6G36Mw" element="__pEj8tUfEeywOOiamcJcoQ" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
-                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_p_RlUdaxEeycwNxP6G36Mw" x="-1" y="1453" height="1534"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_p_RlUdaxEeycwNxP6G36Mw" x="-1" y="1453" height="1693"/>
                 </children>
               </children>
               <children xmi:type="notation:BasicDecorationNode" xmi:id="_ZUnyxNLIEey1H5A3ecLYSQ" type="Name"/>
@@ -1999,7 +1999,7 @@
                 <layoutConstraint xmi:type="notation:Bounds" xmi:id="_mXYVwdaqEey6F4HC2QIwLQ" y="476"/>
               </children>
               <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_mXXusdaqEey6F4HC2QIwLQ" points="[0, 0, 10848, 0]$[-10848, 0, 0, 0]"/>
-              <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_mXYVxNaqEey6F4HC2QIwLQ" id="112:1534"/>
+              <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_mXYVxNaqEey6F4HC2QIwLQ" id="112:1693"/>
               <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_mXYVxdaqEey6F4HC2QIwLQ" id="113:0"/>
             </edges>
           </contents>
