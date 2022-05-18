@@ -2028,8 +2028,8 @@
         <message xmi:id="_4Ah6s9UeEeywOOiamcJcoQ" name="registra" messageSort="reply" receiveEvent="_4Ah6tNUeEeywOOiamcJcoQ" sendEvent="_4Ah6stUeEeywOOiamcJcoQ" connector="_UkzT0tUcEeywOOiamcJcoQ"/>
         <message xmi:id="_lGoAANUfEeywOOiamcJcoQ" name="registrazioneUtente" receiveEvent="_lGonEdUfEeywOOiamcJcoQ" sendEvent="_lGonENUfEeywOOiamcJcoQ" connector="_UkzT0tUcEeywOOiamcJcoQ"/>
         <message xmi:id="_lGonFNUfEeywOOiamcJcoQ" name="registrazioneUtente" messageSort="reply" receiveEvent="_lGonFdUfEeywOOiamcJcoQ" sendEvent="_lGonE9UfEeywOOiamcJcoQ" connector="_UkzT0tUcEeywOOiamcJcoQ"/>
-        <message xmi:id="__pD84NUfEeywOOiamcJcoQ" name="Loginciao come va" receiveEvent="__pEj8dUfEeywOOiamcJcoQ" sendEvent="__pEj8NUfEeywOOiamcJcoQ" connector="_UkzT0tUcEeywOOiamcJcoQ"/>
-        <message xmi:id="__pFLANUfEeywOOiamcJcoQ" name="Login" messageSort="reply" receiveEvent="__pFLAdUfEeywOOiamcJcoQ" sendEvent="__pEj89UfEeywOOiamcJcoQ" connector="_UkzT0tUcEeywOOiamcJcoQ"/>
+        <message xmi:id="__pD84NUfEeywOOiamcJcoQ" name="Login" receiveEvent="__pEj8dUfEeywOOiamcJcoQ" sendEvent="__pEj8NUfEeywOOiamcJcoQ" connector="_UkzT0tUcEeywOOiamcJcoQ"/>
+        <message xmi:id="__pFLANUfEeywOOiamcJcoQ" name="Loginciao" messageSort="reply" receiveEvent="__pFLAdUfEeywOOiamcJcoQ" sendEvent="__pEj89UfEeywOOiamcJcoQ" connector="_UkzT0tUcEeywOOiamcJcoQ"/>
       </ownedBehavior>
       <ownedAttribute xmi:id="__QEx8dUbEeywOOiamcJcoQ" name="utente generico" type="_DbFSoNBiEeyF7O2b0U8wPg"/>
       <ownedAttribute xmi:id="_NYk9sdUcEeywOOiamcJcoQ" name="sistema" type="_M0k4wNUcEeywOOiamcJcoQ"/>
