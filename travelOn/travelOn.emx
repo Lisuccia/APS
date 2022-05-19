@@ -1693,7 +1693,6 @@
       <ownedAttribute xmi:id="_z_kGENHxEeyWUoBnDzq1Dg" name="DataViaggio" visibility="protected">
         <type xmi:type="uml:Class" href="pathmap://XSD_LIBRARIES/XSDDataTypes.library.emx#_7yKF7ykGEdmDdasWev0kGA?XSDDataTypes/XSDDataTypes/dateTime?"/>
       </ownedAttribute>
-      <ownedOperation xmi:id="_7flHcNa-EeyF3OYozAzneQ" name="Invia richiesta annullamento"/>
     </packagedElement>
     <packagedElement xmi:type="uml:Class" xmi:id="_MPTK4NHOEeyWUoBnDzq1Dg" name="PrenTreni">
       <generalization xmi:id="_n8rQ4NHOEeyWUoBnDzq1Dg" general="_K-ki0NHOEeyWUoBnDzq1Dg"/>
