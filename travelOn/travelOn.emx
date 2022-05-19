@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--xtools2_universal_type_manager-->
 <!--Rational Software Architect Designer 9.6-->
-<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.mmi.ui.signatures.diagram" version="7.0.0"><feature description="" name="Piattaforma Rational Modeling (com.ibm.xtools.rmp)" url="" version="7.0.0"/></signature>?>
+<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.mmi.ui.signatures.diagram" version="7.0.0"><feature description="" name="Rational Modeling Platform (com.ibm.xtools.rmp)" url="" version="7.0.0"/></signature>?>
 <?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.uml.msl.model" version="7.0.0"><feature description="" name="com.ibm.xtools.ruml.feature" url="" version="7.0.0"/></signature>?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:Standard="http://www.eclipse.org/uml2/schemas/Standard/1" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmlns:umlnotation="http://www.ibm.com/xtools/1.5.3/Umlnotation" xsi:schemaLocation="http://www.eclipse.org/uml2/schemas/Standard/1 pathmap://UML_PROFILES/Standard.profile.uml#_yzU58YinEdqtvbnfB2L_5w">
   <uml:Package xmi:id="_ODXAQdBfEeyF7O2b0U8wPg" name="travelOn">
@@ -2586,9 +2586,9 @@
             <children xmi:type="notation:DecorationNode" xmi:id="_5UfXktd8EeyN2_VoaA8A5A" type="ActivityEdgeLabelCompartment">
               <children xmi:type="notation:BasicDecorationNode" xmi:id="_5UfXlNd8EeyN2_VoaA8A5A" type="Stereotype"/>
               <children xmi:type="notation:BasicDecorationNode" xmi:id="_5UfXldd8EeyN2_VoaA8A5A" type="ActivityEdgeLabel"/>
-              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5UfXk9d8EeyN2_VoaA8A5A" x="-1381" y="1887"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5UfXk9d8EeyN2_VoaA8A5A" x="-1381" y="2020"/>
             </children>
-            <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_5UfXkdd8EeyN2_VoaA8A5A" points="[-661, 0, -655, 3908]$[-3725, 0, -3719, 3908]$[-3725, -3908, -3719, 0]$[-667, -3908, -661, 0]"/>
+            <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_5UfXkdd8EeyN2_VoaA8A5A" points="[-661, 0, -655, 3908]$[-4254, 0, -4248, 3908]$[-4254, -3908, -4248, 0]$[-667, -3908, -661, 0]"/>
             <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_5UhMwNd8EeyN2_VoaA8A5A" id="left"/>
             <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_5UhMwdd8EeyN2_VoaA8A5A" id="left"/>
           </edges>
