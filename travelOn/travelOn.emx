@@ -2891,7 +2891,7 @@
                   <layoutConstraint xmi:type="notation:Bounds" xmi:id="_AidTodtuEeycheWm4aFSSw" x="-1" y="1453" height="1453"/>
                 </children>
                 <children xmi:type="umlnotation:UMLShape" xmi:id="_SbGJINtuEeycheWm4aFSSw" element="_Sawx8dtuEeycheWm4aFSSw" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
-                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_SbGJIdtuEeycheWm4aFSSw" x="-1" y="1453" height="3307"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_SbGJIdtuEeycheWm4aFSSw" x="-1" y="1453" height="2883"/>
                 </children>
               </children>
               <children xmi:type="notation:BasicDecorationNode" xmi:id="_yAAW1NttEeycheWm4aFSSw" type="Name"/>
@@ -2934,7 +2934,7 @@
                 <layoutConstraint xmi:type="notation:Bounds" xmi:id="_SbJMc9tuEeycheWm4aFSSw" y="476"/>
               </children>
               <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_SbJMcdtuEeycheWm4aFSSw" points="[0, 0, 275, 0]$[-275, 0, 0, 0]"/>
-              <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_SbKakNtuEeycheWm4aFSSw" id="270:3307"/>
+              <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_SbKakNtuEeycheWm4aFSSw" id="270:2883"/>
               <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_SbKakdtuEeycheWm4aFSSw" id="271:0"/>
             </edges>
           </contents>
